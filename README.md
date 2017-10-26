@@ -1,0 +1,1 @@
+Napisz program wyświetlający na konsoli liczby nieparzyste od 1 do 99 w kolejnych wierszach.
